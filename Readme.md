@@ -1,6 +1,6 @@
 # Face Recognition App
 
-![App Screenshot](screenshot.png)
+![App Screenshot][(screenshot.png)](https://github.com/beneben1/python_face_recognition/blob/77a400d3ccd9e39860ff8a3ba5f68b4a265fe604/screenshot.png)
 
 ## Overview
 
