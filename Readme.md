@@ -29,7 +29,7 @@ The Face Recognition App is a Python-based application that allows users to capt
 
    ```shell
    git clone https://github.com/yourusername/face-recognition-app.git
-Install the required Python packages:
+## Install the required Python packages:
 
 shell
 Copy code
@@ -39,7 +39,7 @@ Run the application:
 shell
 Copy code
 python main.py
-Usage
+## Usage
 Launch the application.
 Click the "Capture Photo" button to capture a photo using your webcam.
 Click the "Register with Photo" button to register the captured face with a name.
@@ -47,12 +47,12 @@ Click the "Login with Face" button to recognize and log in using the registered 
 Database
 The application uses an SQLite database (face_recognition.db) to store registered face data. You can manage the database using standard SQLite tools or libraries.
 
-Troubleshooting
+## Troubleshooting
 If you encounter issues with the camera not working, ensure your webcam is connected and properly configured.
 Adjust the recognition threshold in the code to fine-tune face recognition accuracy.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 This project uses the face_recognition library by Adam Geitgey.
 Haar Cascade Classifier for face detection is part of OpenCV.
