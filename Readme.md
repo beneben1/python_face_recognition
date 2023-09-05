@@ -36,9 +36,11 @@ Copy code
 pip install opencv-python numpy face_recognition kivy
 Run the application:
 
-shell
-Copy code
-python main.py
+-shell
+-Copy code
+-python main.py
+
+
 ## Usage
 Launch the application.
 Click the "Capture Photo" button to capture a photo using your webcam.
