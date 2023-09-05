@@ -1,6 +1,6 @@
 # Face Recognition App
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](screenshot.png)
 
 ## Overview
 
